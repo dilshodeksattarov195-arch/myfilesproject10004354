@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchconnect",
+        "uuid": 13728162,
+        "checksum": "ps45wu"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
